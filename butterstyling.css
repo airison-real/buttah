@@ -1,0 +1,136 @@
+body {
+    background-color:#f6f48b;
+    font-family: Sans-Serif, Arial, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+span {
+    font-size: 20px;
+}
+
+img {
+    font-color: white;
+}
+
+form {
+    color: #032620;
+}
+
+.title {
+    text-align: center;
+    color: #260404;
+    font-size: 64px;
+}
+
+.center {
+    text-align: center;
+}
+
+.small {
+    font-size: 10px;
+}
+
+.dborder {
+    border: 6px dotted red;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.large {
+    font-size: 38px;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+legend {
+    background-color: #F3D6AF;
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+fieldset {
+    background-color: #DAD094;
+    border: 2px solid grey;
+}
+
+.landc {
+    font-size: 38px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    }
+#menu {
+    background-color: black;
+    border: 2px solid #ccfdff;
+    border-radius: 10px;
+    padding: 10px;
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    hieght: 15%;
+    width: 60%;
+}
+
+#menu li {
+    display: inline;
+    margin: 0 15px;
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+}
+
+#menu img {
+    vertical-align: left;
+}
+.massive{
+    font-size:999px;
+    }
+']
+
+ div.fixed {
+            position: fixed;
+            top: 100px;
+            right: 100px;
+            border: 3px solid black;
+            padding: 10px;
+            z-index: 1000;
+        }
+#appleImg {
+            cursor: pointer;
+        }
+.spacer {
+    height: 1000vh;
+}
+#score {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #87b5ff;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 10000000;
+    border:3px, black, solid;
+}
+h{
+    font-size:380px;
+    }
